@@ -2,5 +2,3 @@ pandas
 numpy
 sklearn
 streamlit
-matplotlib.pyplot
-seaborn
