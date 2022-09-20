@@ -6,7 +6,7 @@ Attribute Information:
 
 age
 sex
-chest pain type (4 values)
+chest pain type (4 values)hi
 resting blood pressure
 serum cholestoral in mg/dl
 fasting blood sugar > 120 mg/dl
